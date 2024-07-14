@@ -1,0 +1,1 @@
+This project was made by following the PyTorch tutorial. The main file to run the program is Main.py. The files train-images-idx3-ubyte and train-labels.idx1-ubyte must be in the same folder as Main.py. train-images-idx3-ubyte is the training images and train-labels.idx1-ubyte are the image labels. 
